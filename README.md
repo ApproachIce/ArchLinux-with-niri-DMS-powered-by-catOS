@@ -1,6 +1,4 @@
 # ArchLinux-with-niri-DMS-powered-by-catOS
-🌚 item is prepareing, please wait😁
-# ArchLinux-with-niri-DMS-powered-by-catOS
 
 > 本README文档由AI辅助编写，内容仅供参考，实际部署请根据系统环境调整。 This README document is assisted by AI, for reference only. Please adjust according to your system environment during actual deployment.
 
