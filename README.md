@@ -1,5 +1,5 @@
 # ArchLinux-with-niri-DMS-powered-by-catOS
-
+>CatOS官方网站："https://catos.info"，这是部署需要的系统，请选择在线安装并且在桌面选项中选择No desktop（也可以离线安装，就是后续移除KDE全家桶有大量依赖需要解决🌚）
 > 本README文档由AI辅助编写，内容仅供参考，实际部署请根据系统环境调整。 This README document is assisted by AI, for reference only. Please adjust according to your system environment during actual deployment.
 
 ---
